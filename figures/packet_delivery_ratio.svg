@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="580" viewBox="0 0 1040 580">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<text x="115" y="48" font-family="Arial" font-size="27" font-weight="700" fill="#172B4D">Unique packet delivery ratio</text>
+<line x1="115" y1="475.0" x2="1000" y2="475.0" stroke="#E5EAF0"/>
+<text x="103" y="480.0" text-anchor="end" font-family="Arial" font-size="13" fill="#566579">0.00</text>
+<line x1="115" y1="399.0" x2="1000" y2="399.0" stroke="#E5EAF0"/>
+<text x="103" y="404.0" text-anchor="end" font-family="Arial" font-size="13" fill="#566579">0.23</text>
+<line x1="115" y1="323.0" x2="1000" y2="323.0" stroke="#E5EAF0"/>
+<text x="103" y="328.0" text-anchor="end" font-family="Arial" font-size="13" fill="#566579">0.46</text>
+<line x1="115" y1="247.0" x2="1000" y2="247.0" stroke="#E5EAF0"/>
+<text x="103" y="252.0" text-anchor="end" font-family="Arial" font-size="13" fill="#566579">0.70</text>
+<line x1="115" y1="171.0" x2="1000" y2="171.0" stroke="#E5EAF0"/>
+<text x="103" y="176.0" text-anchor="end" font-family="Arial" font-size="13" fill="#566579">0.93</text>
+<line x1="115" y1="95.0" x2="1000" y2="95.0" stroke="#E5EAF0"/>
+<text x="103" y="100.0" text-anchor="end" font-family="Arial" font-size="13" fill="#566579">1.16</text>
+<rect x="137.7" y="147.4" width="62.0" height="327.6" rx="3" fill="#8392A5"/>
+<line x1="168.6" y1="147.4" x2="168.6" y2="147.4" stroke="#263648" stroke-width="2"/>
+<line x1="162.6" y1="147.4" x2="174.6" y2="147.4" stroke="#263648" stroke-width="2"/>
+<line x1="162.6" y1="147.4" x2="174.6" y2="147.4" stroke="#263648" stroke-width="2"/>
+<rect x="194.7" y="147.4" width="62.0" height="327.6" rx="3" fill="#0F9D8A"/>
+<line x1="225.6" y1="147.4" x2="225.6" y2="147.4" stroke="#263648" stroke-width="2"/>
+<line x1="219.6" y1="147.4" x2="231.6" y2="147.4" stroke="#263648" stroke-width="2"/>
+<line x1="219.6" y1="147.4" x2="231.6" y2="147.4" stroke="#263648" stroke-width="2"/>
+<rect x="251.6" y="147.4" width="62.0" height="327.6" rx="3" fill="#D98132"/>
+<line x1="282.6" y1="147.4" x2="282.6" y2="147.4" stroke="#263648" stroke-width="2"/>
+<line x1="276.6" y1="147.4" x2="288.6" y2="147.4" stroke="#263648" stroke-width="2"/>
+<line x1="276.6" y1="147.4" x2="288.6" y2="147.4" stroke="#263648" stroke-width="2"/>
+<text x="225.6" y="503" text-anchor="middle" font-family="Arial" font-size="14" fill="#34445A">clean link</text>
+<rect x="358.9" y="147.4" width="62.0" height="327.6" rx="3" fill="#8392A5"/>
+<line x1="389.9" y1="147.4" x2="389.9" y2="147.4" stroke="#263648" stroke-width="2"/>
+<line x1="383.9" y1="147.4" x2="395.9" y2="147.4" stroke="#263648" stroke-width="2"/>
+<line x1="383.9" y1="147.4" x2="395.9" y2="147.4" stroke="#263648" stroke-width="2"/>
+<rect x="415.9" y="147.4" width="62.0" height="327.6" rx="3" fill="#0F9D8A"/>
+<line x1="446.9" y1="147.4" x2="446.9" y2="147.4" stroke="#263648" stroke-width="2"/>
+<line x1="440.9" y1="147.4" x2="452.9" y2="147.4" stroke="#263648" stroke-width="2"/>
+<line x1="440.9" y1="147.4" x2="452.9" y2="147.4" stroke="#263648" stroke-width="2"/>
+<rect x="472.9" y="147.4" width="62.0" height="327.6" rx="3" fill="#D98132"/>
+<line x1="503.9" y1="147.4" x2="503.9" y2="147.4" stroke="#263648" stroke-width="2"/>
+<line x1="497.9" y1="147.4" x2="509.9" y2="147.4" stroke="#263648" stroke-width="2"/>
+<line x1="497.9" y1="147.4" x2="509.9" y2="147.4" stroke="#263648" stroke-width="2"/>
+<text x="446.9" y="503" text-anchor="middle" font-family="Arial" font-size="14" fill="#34445A">wireless loss</text>
+<rect x="580.2" y="147.4" width="62.0" height="327.6" rx="3" fill="#8392A5"/>
+<line x1="611.1" y1="147.4" x2="611.1" y2="147.4" stroke="#263648" stroke-width="2"/>
+<line x1="605.1" y1="147.4" x2="617.1" y2="147.4" stroke="#263648" stroke-width="2"/>
+<line x1="605.1" y1="147.4" x2="617.1" y2="147.4" stroke="#263648" stroke-width="2"/>
+<rect x="637.1" y="147.4" width="62.0" height="327.6" rx="3" fill="#0F9D8A"/>
+<line x1="668.1" y1="147.4" x2="668.1" y2="147.4" stroke="#263648" stroke-width="2"/>
+<line x1="662.1" y1="147.4" x2="674.1" y2="147.4" stroke="#263648" stroke-width="2"/>
+<line x1="662.1" y1="147.4" x2="674.1" y2="147.4" stroke="#263648" stroke-width="2"/>
+<rect x="694.1" y="147.4" width="62.0" height="327.6" rx="3" fill="#D98132"/>
+<line x1="725.1" y1="147.4" x2="725.1" y2="147.4" stroke="#263648" stroke-width="2"/>
+<line x1="719.1" y1="147.4" x2="731.1" y2="147.4" stroke="#263648" stroke-width="2"/>
+<line x1="719.1" y1="147.4" x2="731.1" y2="147.4" stroke="#263648" stroke-width="2"/>
+<text x="668.1" y="503" text-anchor="middle" font-family="Arial" font-size="14" fill="#34445A">high delay</text>
+<rect x="801.4" y="147.4" width="62.0" height="327.6" rx="3" fill="#8392A5"/>
+<line x1="832.4" y1="147.4" x2="832.4" y2="147.4" stroke="#263648" stroke-width="2"/>
+<line x1="826.4" y1="147.4" x2="838.4" y2="147.4" stroke="#263648" stroke-width="2"/>
+<line x1="826.4" y1="147.4" x2="838.4" y2="147.4" stroke="#263648" stroke-width="2"/>
+<rect x="858.4" y="147.4" width="62.0" height="327.6" rx="3" fill="#0F9D8A"/>
+<line x1="889.4" y1="147.4" x2="889.4" y2="147.4" stroke="#263648" stroke-width="2"/>
+<line x1="883.4" y1="147.4" x2="895.4" y2="147.4" stroke="#263648" stroke-width="2"/>
+<line x1="883.4" y1="147.4" x2="895.4" y2="147.4" stroke="#263648" stroke-width="2"/>
+<rect x="915.4" y="147.4" width="62.0" height="327.6" rx="3" fill="#D98132"/>
+<line x1="946.4" y1="147.4" x2="946.4" y2="147.4" stroke="#263648" stroke-width="2"/>
+<line x1="940.4" y1="147.4" x2="952.4" y2="147.4" stroke="#263648" stroke-width="2"/>
+<line x1="940.4" y1="147.4" x2="952.4" y2="147.4" stroke="#263648" stroke-width="2"/>
+<text x="889.4" y="503" text-anchor="middle" font-family="Arial" font-size="14" fill="#34445A">congested bottleneck</text>
+<text x="557.5" y="555" text-anchor="middle" font-family="Arial" font-size="14" fill="#566579">Scenario (bars show mean; whiskers show ±1 SD across 10 seeds)</text>
+<text transform="translate(28 285.0) rotate(-90)" text-anchor="middle" font-family="Arial" font-size="14" fill="#566579">Unique packet delivery ratio</text>
+<rect x="770" y="60" width="14" height="14" fill="#8392A5"/><text x="792" y="73" font-family="Arial" font-size="14" fill="#34445A">Reno-style</text>
+<rect x="770" y="83" width="14" height="14" fill="#0F9D8A"/><text x="792" y="96" font-family="Arial" font-size="14" fill="#34445A">Rule heuristic</text>
+<rect x="770" y="106" width="14" height="14" fill="#D98132"/><text x="792" y="119" font-family="Arial" font-size="14" fill="#34445A">PPO</text>
+</svg>
